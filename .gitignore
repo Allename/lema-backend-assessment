@@ -1,0 +1,9 @@
+# modules
+node_modules
+
+# compiled
+dist
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
